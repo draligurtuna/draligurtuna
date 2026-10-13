@@ -101,3 +101,42 @@ Choose an attributed archive and read the original context. No poem text is repr
 - [Cemal Süreya — Author Archive](https://www.babaminsiirdefteri.com/sair/cemal-sureya/)
 - [Attilâ İlhan — Author Archive](https://www.babaminsiirdefteri.com/sair/attila-ilhan/)
 - [Cahit Sıtkı — Author Archive](https://www.babaminsiirdefteri.com/sair/cahit-sitki-taranci/)
+
+## Topic index — further references
+
+### Market data and confirmation
+
+Choose a guide for the data-state, unit or timing question you are reviewing.
+
+- [Why a high score can stay blocked](https://www.agprolabs.com/insights/high-score-blocked-screener/)
+- [Breakout, continuation and recovery](https://www.agprolabs.com/insights/breakout-vs-continuation-vs-recovery/)
+- [Stale setup checks](https://www.agprolabs.com/insights/stale-setup-screening/)
+- [Turnover and volume units](https://www.agprolabs.com/insights/turnover-thresholds-volume-units/)
+- [Confirmed candles and repainting](https://www.agprolabs.com/insights/confirmed-candles-repainting-tradingview/)
+- [Review timeframe disagreement](https://www.agprolabs.com/insights/multi-timeframe-analysis-conflict/)
+- [Channel follow rate and sample size](https://www.agprolabs.com/insights/channel-follow-rate-sample-size/)
+- [Pivot confirmation and channel timing](https://www.agprolabs.com/insights/pivot-confirmation-channel-timing/)
+
+### Health reading topics
+
+These topic archives organize educational information; they do not interpret an individual medical result.
+
+- [Diyet ve Beslenme — Topic Archive](https://www.aligurtuna.com/diyet-beslenme/)
+- [Uyku Sağlığı — Topic Archive](https://www.aligurtuna.com/uyku-sagligi/)
+- [Endokrinoloji ve Diyabet — Topic Archive](https://www.aligurtuna.com/endokrinoloji-ve-diyabet/)
+- [Laboratuvar Testleri — Topic Archive](https://www.aligurtuna.com/laboratuvar-testleri-ve-tahlil/)
+- [Enfeksiyon Hastalıkları — Topic Archive](https://www.aligurtuna.com/enfeksiyon-hastaliklari/)
+- [Spor ve Egzersiz Sağlığı — Topic Archive](https://www.aligurtuna.com/spor-hekimligi-ve-egzersiz-sagligi/)
+
+### More author archives
+
+Open an attributed author page and read its context. No poem text is reproduced here.
+
+- [Mehmet Akif Ersoy — Author Archive](https://www.babaminsiirdefteri.com/sair/mehmet-akif-ersoy/)
+- [Necip Fazıl Kısakürek — Author Archive](https://www.babaminsiirdefteri.com/sair/necip-fazil-kisakurek/)
+- [Murathan Mungan — Author Archive](https://www.babaminsiirdefteri.com/sair/murathan-mungan/)
+- [Ümit Yaşar Oğuzcan — Author Archive](https://www.babaminsiirdefteri.com/sair/umit-yasar-oguzcan/)
+- [Yunus Emre — Author Archive](https://www.babaminsiirdefteri.com/sair/yunus-emre/)
+- [Hilmi Yavuz — Author Archive](https://www.babaminsiirdefteri.com/sair/hilmi-yavuz/)
+
+Owner-maintained project navigation. AI-assisted resource-map update.

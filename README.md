@@ -70,3 +70,34 @@ Open an attributed author archive and read the context on the original page:
 - [Âşık Veysel](https://www.babaminsiirdefteri.com/sair/asik-veysel/)
 
 I maintain the projects linked here. These links identify my work; they are not independent reviews or endorsements.
+
+## Quick tool-and-reading references
+
+Choose a relevant destination from the projects I maintain. This is author-maintained navigation, not an independent endorsement. AI-assisted resource-map update.
+
+### Keep a market-review record
+
+Preserve observation, invalidation and unresolved disagreement before judging an outcome.
+
+- [Keep a Forward-Test Record](https://www.agprolabs.com/insights/forward-test-tradingview-indicator/)
+- [Analytical Invalidation vs Stop Loss](https://www.agprolabs.com/insights/invalidation-vs-stop-loss/)
+- [Review Indicator Disagreement](https://www.agprolabs.com/insights/indicator-disagreement-checklist/)
+- [Screening Journal Template](https://www.agprolabs.com/insights/trading-journal-screening-template/)
+
+### Open a tool explanation
+
+Read the stated inputs and limitations; a result is not an individual diagnosis.
+
+- [Daily calorie calculator — inputs and limitations](https://www.aligurtuna.com/gunluk-kalori-hesaplama-programi/)
+- [BMI calculator — height, weight and units](https://www.aligurtuna.com/vucut-kitle-indeksi-hesaplama-bmi-v-2/)
+- [Growth percentile calculator — age and measurement context](https://www.aligurtuna.com/boy-kilo-persentil-hesaplama/)
+- [Pregnancy calendar — date inputs and explanation](https://www.aligurtuna.com/gebelik-hesaplama-takvimi/)
+
+### Explore another author
+
+Choose an attributed archive and read the original context. No poem text is reproduced here.
+
+- [Nazım Hikmet — Author Archive](https://www.babaminsiirdefteri.com/sair/nazim-hikmet/)
+- [Cemal Süreya — Author Archive](https://www.babaminsiirdefteri.com/sair/cemal-sureya/)
+- [Attilâ İlhan — Author Archive](https://www.babaminsiirdefteri.com/sair/attila-ilhan/)
+- [Cahit Sıtkı — Author Archive](https://www.babaminsiirdefteri.com/sair/cahit-sitki-taranci/)

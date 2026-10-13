@@ -140,3 +140,9 @@ Open an attributed author page and read its context. No poem text is reproduced 
 - [Hilmi Yavuz — Author Archive](https://www.babaminsiirdefteri.com/sair/hilmi-yavuz/)
 
 Owner-maintained project navigation. AI-assisted resource-map update.
+
+## Additional reading
+
+- **Market-tool setup:** [Paid-indicator buyer worksheet](https://www.agprolabs.com/insights/choose-paid-tradingview-indicator/) · [Indicator setup costs](https://www.agprolabs.com/insights/tradingview-indicator-setup-costs/) · [Review alerts after a script update](https://www.agprolabs.com/insights/tradingview-alerts-after-script-update/)
+- **Health resource scope:** [Editorial principles](https://www.aligurtuna.com/editoryal-ilkeler/) · [Medical-content boundaries](https://www.aligurtuna.com/tibbi-icerik-sinirlari/)
+- **Family literary sources:** [Şaban Gürtuna — author introduction](https://www.babaminsiirdefteri.com/saban-gurtuna/) · [Rüzgârlı Tepe — book page](https://www.babaminsiirdefteri.com/ruzgarli-tepe-siir-kitabim-saban-gurtuna/)

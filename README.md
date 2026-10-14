@@ -480,3 +480,39 @@ Separate the author archive from an individual work review. These links lead to 
 - [Adalet Ağaoğlu – Hayır… (Eser İncelemesi)](https://www.babaminsiirdefteri.com/adalet-agaoglu-hayir-incelemesi/)
 - [Adalet Ağaoğlu – Ölmeye Yatmak (Eser İncelemesi)](https://www.babaminsiirdefteri.com/adalet-agaoglu-olmeye-yatmak-eser-incelemesi/)
 - [Şiir Türleri](https://www.babaminsiirdefteri.com/sair/siir-turleri/)
+
+
+
+<details>
+<summary>More resources from projects I maintain</summary>
+
+These optional links point to my own projects. Health pages provide general education; literary archives link to author and book information without reproducing their texts.
+
+### Health topic guides
+
+- [Ağız ve Diş Sağlığı Rehberi](https://www.aligurtuna.com/agiz-dis-sagligi/)
+- [Alerji ve İmmünoloji Rehberi](https://www.aligurtuna.com/alerji-ve-immunoloji/)
+- [Çocuk Sağlığı ve Hastalıkları Rehberi](https://www.aligurtuna.com/cocuk-sagligi-ve-hastaliklari/)
+- [Dermatoloji, Cilt Bakımı ve Estetik Rehberi](https://www.aligurtuna.com/dermatoloji/)
+- [Üroloji ve Erkek Sağlığı Rehberi](https://www.aligurtuna.com/erkek-sagligi-ve-uroloji/)
+- [Fizik Tedavi ve Rehabilitasyon Sağlığı](https://www.aligurtuna.com/fizik-tedavi-ve-rehabilitasyon/)
+- [Göz Hastalıkları ve Göz Sağlığı Rehberi](https://www.aligurtuna.com/goz-hastaliklari-ve-sagligi/)
+- [Nefroloji ve Böbrek Sağlığı Rehberi](https://www.aligurtuna.com/nefroloji-ve-bobrek-sagligi/)
+
+### Author and literary archives
+
+- [Hikayelerim](https://www.babaminsiirdefteri.com/sair/hikayelerim/)
+- [Kaygusuz Abdal](https://www.babaminsiirdefteri.com/sair/kaygusuz-abdal/)
+- [Köroğlu](https://www.babaminsiirdefteri.com/sair/koroglu/)
+- [Lale Müldür](https://www.babaminsiirdefteri.com/sair/lale-muldur/)
+- [Makalelerim](https://www.babaminsiirdefteri.com/sair/makalelerim/)
+- [Nâbî](https://www.babaminsiirdefteri.com/sair/nabi/)
+- [Nedîm](https://www.babaminsiirdefteri.com/sair/nedim/)
+- [Nef’î](https://www.babaminsiirdefteri.com/sair/nefi/)
+- [Neyzen Tevfik](https://www.babaminsiirdefteri.com/sair/neyzen-tevfik/)
+- [Nilgün Marmara](https://www.babaminsiirdefteri.com/sair/nilgun-marmara/)
+- [Pir Sultan Abdal](https://www.babaminsiirdefteri.com/sair/pir-sultan-abdal/)
+- [Şaban Gürtuna](https://www.babaminsiirdefteri.com/sair/saban-gurtuna/)
+- [Şeyh Galip](https://www.babaminsiirdefteri.com/sair/seyh-galip/)
+
+</details>

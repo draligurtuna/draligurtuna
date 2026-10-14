@@ -331,3 +331,41 @@ A direct navigation map for the products and editorial archives I maintain. Choo
 - [Melih Cevdet Anday archive](https://www.babaminsiirdefteri.com/sair/melih-cevdet-anday/)
 - [Oktay Rifat archive](https://www.babaminsiirdefteri.com/sair/oktay-rifat/)
 - [Sezai Karakoç archive](https://www.babaminsiirdefteri.com/sair/sezai-karakoc/)
+
+
+## More focused guide and author routes
+
+These original pages complete the navigation map for the projects I maintain. Open the destination for its methodology, scope and current documentation.
+
+### AGProLabs comparison and review guides
+
+- [Crypto Setup Planner vs Trading Suite](https://www.agprolabs.com/insights/crypto-setup-planner-vs-trading-suite/)
+- [Dynamic Channels vs Manual Trendlines](https://www.agprolabs.com/insights/dynamic-channels-vs-manual-trendlines/)
+- [TradingView Indicator vs Strategy Explained](https://www.agprolabs.com/insights/tradingview-indicator-vs-strategy/)
+- [Technical Analysis Tool Buying Checklist](https://www.agprolabs.com/insights/technical-analysis-tool-buying-checklist/)
+- [Choosing a TradingView Indicator for Swing Trading](https://www.agprolabs.com/insights/tradingview-indicator-for-swing-trading/)
+- [TradingView Tools for Traders with Limited Time](https://www.agprolabs.com/insights/tradingview-tools-for-busy-traders/)
+- [Compare ETFs in a TradingView Watchlist](https://www.agprolabs.com/insights/compare-etfs-tradingview-watchlist/)
+- [A Weekend Crypto Watchlist Review](https://www.agprolabs.com/insights/weekend-crypto-watchlist-review/)
+- [Relative Volume vs Liquidity: Know the Difference](https://www.agprolabs.com/insights/relative-volume-vs-liquidity/)
+- [Trend vs Range: Change the Chart Review](https://www.agprolabs.com/insights/trend-vs-range-trading-workflow/)
+- [Liquidity Sweep vs Breakout: A Review Framework](https://www.agprolabs.com/insights/liquidity-sweep-vs-breakout/)
+- [Fair Value Gaps: Location Before a Signal](https://www.agprolabs.com/insights/fair-value-gap-context/)
+- [Position Size vs Indicator Score](https://www.agprolabs.com/insights/position-size-vs-indicator-score/)
+- [Maximum Drawdown and Recovery in a Trading Review](https://www.agprolabs.com/insights/maximum-drawdown-trading-review/)
+- [A Weekly Trading Process Review](https://www.agprolabs.com/insights/weekly-trading-process-review/)
+
+### Şair arşivleri
+
+- [Adnan Özer arşivi](https://www.babaminsiirdefteri.com/sair/adnan-ozer/)
+- [Adnan Yücel arşivi](https://www.babaminsiirdefteri.com/sair/adnan-yucel/)
+- [Afşar Timuçin arşivi](https://www.babaminsiirdefteri.com/sair/afsar-timucin/)
+- [Ahmet Ada arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-ada/)
+- [Ahmet Erhan arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-erhan/)
+- [Ahmet Oktay arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-oktay/)
+- [Ahmet Telli arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-telli/)
+- [Ali Cengizkan arşivi](https://www.babaminsiirdefteri.com/sair/ali-cengizkan/)
+- [Ataol Behramoğlu arşivi](https://www.babaminsiirdefteri.com/sair/ataol-behramoglu/)
+- [Enis Batur arşivi](https://www.babaminsiirdefteri.com/sair/enis-batur/)
+- [Metin Altıok arşivi](https://www.babaminsiirdefteri.com/sair/metin-altiok/)
+- [Özdemir Asaf arşivi](https://www.babaminsiirdefteri.com/sair/ozdemir-asaf/)

@@ -172,3 +172,31 @@ A concise map of the author's own resources; choose the original page that match
 - [Ahmed Arif archive](https://www.babaminsiirdefteri.com/sair/ahmed-arif/)
 - [Ahmet Hamdi Tanpınar archive](https://www.babaminsiirdefteri.com/sair/ahmet-hamdi-tanpinar/)
 - [Ahmet Haşim archive](https://www.babaminsiirdefteri.com/sair/ahmet-hasim/)
+
+
+## Further source references
+
+### Market coverage and chart context
+
+- [Screen stocks and ETFs in TradingView](https://www.agprolabs.com/insights/screen-stocks-etfs-tradingview/)
+- [Screen commodities in TradingView](https://www.agprolabs.com/insights/screen-commodities-tradingview/)
+- [Long and short score conflicts](https://www.agprolabs.com/insights/long-short-score-conflict/)
+- [Qualified candidates near resistance](https://www.agprolabs.com/insights/near-resistance-qualified-candidate/)
+- [Channel-position percentages](https://www.agprolabs.com/insights/channel-position-percent/)
+- [Broken-channel support and resistance](https://www.agprolabs.com/insights/broken-channel-support-resistance/)
+- [Channel breakout and retest checklist](https://www.agprolabs.com/insights/channel-breakout-retest-checklist/)
+- [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
+
+### Energy-tool explanations
+
+Read each tool's inputs, assumptions and limits.
+
+- [Basal metabolic rate calculator — explanation and limits](https://www.aligurtuna.com/bazal-metabolizma-hizi-hesaplama/)
+- [Calorie-deficit calculator — inputs and assumptions](https://www.aligurtuna.com/kalori-acigi-hesaplama-kilo-verme-hizi/)
+- [Macronutrient calculator — educational reference](https://www.aligurtuna.com/makro-besin-hesaplama-gunluk-makro-dagilimi/)
+
+### Further author archives
+
+- [Turgut Uyar archive](https://www.babaminsiirdefteri.com/sair/turgut-uyar/)
+- [Edip Cansever archive](https://www.babaminsiirdefteri.com/sair/edip-cansever/)
+- [Can Yücel archive](https://www.babaminsiirdefteri.com/sair/can-yucel/)

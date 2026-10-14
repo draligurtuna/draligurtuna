@@ -219,3 +219,37 @@ Read each tool's inputs, assumptions and limits.
 - [A. Kadir archive](https://www.babaminsiirdefteri.com/sair/a-kadir/)
 - [Abbas Sayar archive](https://www.babaminsiirdefteri.com/sair/abbas-sayar/)
 - [Abdülhak Hâmit Tarhan archive](https://www.babaminsiirdefteri.com/sair/abdulhak-hamit-tarhan/)
+
+
+## Choose an original reference for the next review
+
+These are resources from the projects I maintain. Choose a relevant original page for its scope, input definitions and attribution. The links do not establish that the sample code validates a trading outcome, individual health assessment or literary interpretation.
+
+### Market review and comparison guides
+
+- [TradingView Screener vs Chart Indicator](https://www.agprolabs.com/insights/tradingview-screener-vs-chart-indicator/)
+- [Build a TradingView Analysis Workspace](https://www.agprolabs.com/insights/build-tradingview-analysis-workspace/)
+- [Build a Crypto Watchlist for Meaningful Screening](https://www.agprolabs.com/insights/build-crypto-watchlist-tradingview/)
+- [Build a Stock Sector Watchlist in TradingView](https://www.agprolabs.com/insights/stock-sector-watchlist-tradingview/)
+- [Crypto Spot vs Perpetual Screening](https://www.agprolabs.com/insights/crypto-spot-vs-perpetual-screening/)
+- [VWAP vs Moving Average for Chart Context](https://www.agprolabs.com/insights/vwap-vs-moving-average/)
+- [Risk Reward After Fees and Slippage](https://www.agprolabs.com/insights/risk-reward-after-fees/)
+- [Portfolio Rotation and Relative Strength](https://www.agprolabs.com/insights/portfolio-rotation-relative-strength/)
+- [Correlated Trades and Portfolio Risk](https://www.agprolabs.com/insights/correlated-trades-portfolio-risk/)
+- [Trading Indicator Overfitting: Warning Signs](https://www.agprolabs.com/insights/indicator-overfitting-warning-signs/)
+- [Win Rate vs Expectancy in a Trading Review](https://www.agprolabs.com/insights/win-rate-vs-expectancy/)
+- [Heikin Ashi vs Standard Candles for Setup Review](https://www.agprolabs.com/insights/heikin-ashi-vs-standard-candles/)
+
+### Date and measurement tool references
+
+- [Age calculator: years, months and days](https://www.aligurtuna.com/yas-hesaplama-programi-gun-ay-ve-yil-olarak/)
+- [Daily water needs calculator](https://www.aligurtuna.com/gunluk-su-ihtiyaci-hesaplama-programi/)
+- [Waist-to-height ratio calculator](https://www.aligurtuna.com/bel-boy-orani-hesaplama-abdominal-yaglanma-ve-metabolik-risk/)
+
+### Named poet archives
+
+- [Bâkî archive](https://www.babaminsiirdefteri.com/sair/baki/)
+- [Birhan Keskin archive](https://www.babaminsiirdefteri.com/sair/birhan-keskin/)
+- [Gonca Özmen archive](https://www.babaminsiirdefteri.com/sair/gonca-ozmen/)
+- [Haydar Ergülen archive](https://www.babaminsiirdefteri.com/sair/haydar-ergulen/)
+- [İlhan Berk archive](https://www.babaminsiirdefteri.com/sair/ilhan-berk/)

@@ -200,3 +200,22 @@ Read each tool's inputs, assumptions and limits.
 - [Turgut Uyar archive](https://www.babaminsiirdefteri.com/sair/turgut-uyar/)
 - [Edip Cansever archive](https://www.babaminsiirdefteri.com/sair/edip-cansever/)
 - [Can Yücel archive](https://www.babaminsiirdefteri.com/sair/can-yucel/)
+
+
+## Focused reading questions
+
+### Breadth and session preparation
+
+- [Market breadth and watchlist context](https://www.agprolabs.com/insights/market-breadth-watchlist-context/)
+- [Pre-market stock review checklist](https://www.agprolabs.com/insights/pre-market-stock-screening-checklist/)
+
+### Measurement-tool references
+
+- [Waist-to-hip ratio tool explanation](https://www.aligurtuna.com/bel-kalca-orani-hesaplama/)
+- [Body-fat estimate tool explanation](https://www.aligurtuna.com/vucut-yag-orani-hesaplama-formulu/)
+
+### Additional author routes
+
+- [A. Kadir archive](https://www.babaminsiirdefteri.com/sair/a-kadir/)
+- [Abbas Sayar archive](https://www.babaminsiirdefteri.com/sair/abbas-sayar/)
+- [Abdülhak Hâmit Tarhan archive](https://www.babaminsiirdefteri.com/sair/abdulhak-hamit-tarhan/)

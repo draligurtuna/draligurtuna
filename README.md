@@ -518,3 +518,17 @@ These optional links point to my own projects. Health pages provide general educ
 - [Şeyh Galip](https://www.babaminsiirdefteri.com/sair/seyh-galip/)
 
 </details>
+
+
+<details>
+<summary>Further author-archive starting points</summary>
+
+Choose an attributed author archive before recording a work title and your own reading question. These are resources from the family literature project I maintain; no poem or book text is reproduced here.
+
+- [A. Vahap Akbaş](https://www.babaminsiirdefteri.com/sair/a-vahap-akbas/)
+- [Abdülbaki Gölpınarlı](https://www.babaminsiirdefteri.com/sair/abdulbaki-golpinarli/)
+- [Abdülhak Şinasi Hisar](https://www.babaminsiirdefteri.com/sair/abdulhak-sinasi-hisar/)
+- [Abdülkadir Bulut](https://www.babaminsiirdefteri.com/sair/abdulkadir-bulut/)
+- [Abdullah Öztemiz Hacıtahiroğlu](https://www.babaminsiirdefteri.com/sair/abdullah-oztemiz-hacitahiroglu/)
+
+</details>

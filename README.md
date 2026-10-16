@@ -155,6 +155,8 @@ A concise map of the author's own resources; choose the original page that match
 ### Channel structure and access
 
 - [Access and activation](https://www.agprolabs.com/how-access-works/)
+- [Payment guide — routes and verification](https://www.agprolabs.com/payment-guide/)
+- [Support checklist — access and username corrections](https://www.agprolabs.com/support/)
 - [Projected channel rails](https://www.agprolabs.com/insights/projected-channel-rails/)
 - [Major and minor price channels](https://www.agprolabs.com/insights/major-minor-price-channels/)
 - [Internal and external price channels](https://www.agprolabs.com/insights/internal-external-price-channels/)
